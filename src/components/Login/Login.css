@@ -1,0 +1,11 @@
+.login {
+    align-items: center;
+    margin-top: 300px;
+    margin-left: 300px;
+}
+
+button {
+    background-color: blueviolet;
+    color: whitesmoke;
+    cursor: pointer;
+}
